@@ -72,7 +72,7 @@ const Navbar = () => {
                     <Search style={{color:"gray", fontSize:16}}/>
                 </SearchContainer>
             </Left>
-            <Center><Logo>KLEPON.</Logo></Center>
+            <Center><Logo>SAGARA.</Logo></Center>
             <Right>
 
                 <MenuItem>REGISTER</MenuItem>
