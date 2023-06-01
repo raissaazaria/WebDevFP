@@ -1,10 +1,8 @@
 import {
     Facebook,
     Instagram,
-    MailOutline,
     Phone,
     Pinterest,
-    Room,
     Twitter,
   } from "@material-ui/icons";
   import styled from "styled-components";
@@ -88,11 +86,12 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>LAMA.</Logo>
+          <Logo>SAGARA.</Logo>
           <Desc>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don’t look even slightly believable.
+            Here is our Final Project for Web Application Development
+            Security. Our group consist of Annisa, Raissa and Richie. 
+            This is an online shopping store called "SAGARA". The meaning of the name Sāgara is "ocean" or "sea."
+             In the Hindi language, the meaning of the name Sagara is सफल, which translates to "success."
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
@@ -127,13 +126,13 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
+            <Room style={{marginRight:"10px"}}/> Jl. Jenderal Sudirman, RT.1/RW.3, Gelora, Tanah Abang Subdistrict, Central Jakarta City, Special Capital Region of Jakarta, 10270.
           </ContactItem>
           <ContactItem>
             <Phone style={{marginRight:"10px"}}/> +1 234 56 78
           </ContactItem>
           <ContactItem>
-            <MailOutline style={{marginRight:"10px"}} /> contact@lama.dev
+            <MailOutline style={{marginRight:"10px"}} /> contact@sagara.dev
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>
