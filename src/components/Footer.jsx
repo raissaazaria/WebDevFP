@@ -7,6 +7,8 @@ import {
   } from "@material-ui/icons";
   import styled from "styled-components";
   import { mobile } from "../responsive";
+  import Room from '@material-ui/icons/Room';
+  import MailOutline from '@material-ui/icons/MailOutline';
   
   const Container = styled.div`
     display: flex;

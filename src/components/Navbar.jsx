@@ -1,6 +1,6 @@
 import { Badge } from '@material-ui/core';
 import React from 'react'
-import Navbar from '../components/Navbar'
+//import Navbar from '../components/Navbar'
 import styled from 'styled-components';
 import { Search, ShoppingCartOutlined } from '@material-ui/icons';
 
